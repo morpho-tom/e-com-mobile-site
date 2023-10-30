@@ -1,0 +1,10 @@
+  .one {
+    color: whitesmoke;
+    background-color: orange;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+    letter-spacing: 5px;
+  }
