@@ -33,7 +33,11 @@ function Card(props) {
               <>
                 <div>
                   <div class="card col-12 col-sm-12 col-md-3">
-                    <img src={item.img} width={300} height={270} />
+                    <img src={item.img}
+                      width={300}
+                      height={270}
+                      alt="Mobile-images"
+                    />
                     <div class="card__content">
                       <p class="card__title">{item.name}</p>
                       <p class="card__description">{item.unit} {item.price}</p>

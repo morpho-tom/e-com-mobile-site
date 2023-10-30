@@ -16,7 +16,7 @@ import Note12pro from ".//assets/note12pro.jpg"
 import Nordce2 from ".//assets/nordce2.jpg"
 import Realmegt from ".//assets/realmegt.jpg"
 import Nothing from ".//assets/nothing.jpg"
-import SearchBar from "./components/SearchBar";
+// import SearchBar from "./components/SearchBar";
 
 
 
