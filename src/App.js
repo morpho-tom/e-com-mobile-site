@@ -1,12 +1,7 @@
 import "./App.css";
-// import components
-
 import ImageSlider from "./components/Imageslider/index";
 import Card from "./components/Card";
 import ShoppingBgrnd from "./components/ShoppingBackground";
-// import Searchbox from "./components/SearchBar/index";
-
-// image for card => 
 import Samsung20 from ".//assets/s20fe.jpg"
 import Samsung22 from ".//assets/s22.jpg"
 import Ip14 from ".//assets/ip14.jpg"
